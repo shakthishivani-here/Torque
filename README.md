@@ -263,9 +263,7 @@ locust -f tests/load/locustfile.py
 
 - [Requirements Document](requirements.md) - Detailed functional and non-functional requirements
 - [Design Document](design.md) - Complete system design and architecture
-- [Pitch Deck Content](PITCH_DECK_CONTENT.md) - Hackathon presentation content
 - [API Documentation](docs/api/README.md) - API endpoints and usage
-- [Deployment Guide](docs/guides/deployment.md) - Production deployment instructions
 
 ## 🎯 Hackathon MVP Scope
 
@@ -326,25 +324,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team WhiteWorld
-
-- **Technical Architect**: [Name]
-- **Backend Lead**: [Name]
-- **Frontend Lead**: [Name]
-- **ML Engineer**: [Name]
-- **Product Manager**: [Name]
-
-## 📞 Contact
-
-- **Email**: team@torque.ai
-- **Website**: [www.torque.ai](https://www.torque.ai)
-- **LinkedIn**: [/company/torque-ai](https://linkedin.com/company/torque-ai)
-- **Demo**: [demo.torque.ai](https://demo.torque.ai)
 
 ## 🏆 Acknowledgments
 
