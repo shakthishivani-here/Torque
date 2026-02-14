@@ -2,7 +2,6 @@
 
 [![AI for Bharat Hackathon](https://img.shields.io/badge/AI%20for%20Bharat-Hackathon%202026-blue)](https://aiforindia.gov.in)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Native-orange)](https://aws.amazon.com)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 > **From Blind Pricing to Brilliant Profits**
 
