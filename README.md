@@ -353,13 +353,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community
 - Our pilot customers and advisors
 
-## 📈 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/whiteworld/torque?style=social)
-![GitHub forks](https://img.shields.io/github/forks/whiteworld/torque?style=social)
-![GitHub issues](https://img.shields.io/github/issues/whiteworld/torque)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/whiteworld/torque)
-
 ---
 
 **Built with ❤️ by Team WhiteWorld for AI for Bharat Hackathon 2026**
